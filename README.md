@@ -47,6 +47,6 @@ This analysis helps Waze teams identify at-risk users, optimize app features, an
 ## 🧠 Author
 
 - Gokula Krishnan  
-- [LinkedIn](www.linkedin.com/in/gokula-krishnan-senthilkumar-70a824212)  
+- [LinkedIn](https://www.linkedin.com/in/gokula-krishnan-senthilkumar-70a824212)  
 - [Portfolio](https://gokulkrish1045.github.io/goku1045/)
 
