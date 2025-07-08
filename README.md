@@ -14,14 +14,14 @@ Predict which users are likely to churn based on their activity history, engagem
 - Git & GitHub
 
 ## 📂 Project Structure
-
+```bash
 waze-churn-analysis/
 ├── data/ → Raw dataset CSVs
 ├── notebooks/ → Jupyter notebooks for EDA & modeling
 ├── visuals/ → Charts, graphs, screenshots
 ├── README.md → You're here
 ├── .gitignore 
-
+```
 
 ## 🔍 Key Steps
 
