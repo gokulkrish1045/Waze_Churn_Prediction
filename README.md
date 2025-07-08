@@ -8,9 +8,8 @@ Predict which users are likely to churn based on their activity history, engagem
 
 ## 🛠 Tools & Tech
 
-- SQL / MySQL
 - Python (Pandas, Matplotlib, Scikit-learn)
-- Power BI or Tableau (if used)
+- Tableau
 - Git & GitHub
 
 ## 📂 Project Structure
@@ -28,7 +27,7 @@ waze-churn-analysis/
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Model Building (if applicable)
+- Model Building 
 - Final Insights & Recommendations
 
 ## 📊 Sample Insights
@@ -48,6 +47,6 @@ This analysis helps Waze teams identify at-risk users, optimize app features, an
 ## 🧠 Author
 
 - Gokula Krishnan  
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Portfolio](https://your-portfolio-link)
+- [LinkedIn](www.linkedin.com/in/gokula-krishnan-senthilkumar-70a824212)  
+- [Portfolio](https://gokulkrish1045.github.io/goku1045/)
 
