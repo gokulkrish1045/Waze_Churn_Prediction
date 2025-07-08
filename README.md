@@ -42,7 +42,7 @@ waze-churn-analysis/
 ## 1,LOGISITC REGRESSION OUTPUTS:
 
 ### LOGISIC REGRESSION CONFUSION MATRIX ACHIEVED F1 SCORE 9%:
-![CM](visuals/OUTPUT.png)
+![CM](visuals/logistic_regression_CM.png)
 
 
 
