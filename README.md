@@ -44,6 +44,11 @@ waze-churn-analysis/
 ### LOGISIC REGRESSION CONFUSION MATRIX ACHIEVED F1 SCORE 9%:
 ![CM](visuals/logistic_regression_CM.png)
 
+<p align="center">
+  <img src="visuals/logistic_regression_CM.png" style="background-color: white; padding: 10px;" />
+</p>
+
+
 ### LOGISTIC REGRESSION FEATURE IMPORTANCE BAR CHART:
 
 ![FEATURE_IMPORTANCE](visuals/logistic_feature_importance.png)
