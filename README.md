@@ -16,7 +16,7 @@ Predict which users are likely to churn based on their activity history, engagem
 ```bash
 waze-churn-analysis/
 ├── data/ → Raw dataset CSVs
-├── notebooks/ → Jupyter notebooks for EDA & modeling
+├── notebooks/ → logistic regression & tree based classification
 ├── visuals/ → Charts, graphs, screenshots
 ├── README.md → You're here
 ├── .gitignore 
@@ -38,7 +38,22 @@ waze-churn-analysis/
 
 ## 🖼 Visuals
 
-![Churn by Drive Distance](visuals/churn_by_distance.png)
+
+## 1,LOGISITC REGRESSION OUTPUTS:
+
+### LOGISIC REGRESSION CONFUSION MATRIX ACHIEVED F1 SCORE 9%:
+![CM](visuals/logistic_regression_CM.png)
+
+### LOGISTIC REGRESSION FEATURE IMPORTANCE BAR CHART:
+
+![FEATURE_IMPORTANCE](visuals/logistic_feature_importance.png)
+
+### CHAMPION MODEL XG_BOOST  CONFUSION MATRIX ACHIEVED F1 SCORE 49%:
+![CM](visuals/xg_boost_CM.png)
+
+### XG_BOOST MODEL FEATURE IMPORTANCE BAR CHART:
+
+![FEATURE_IMPORTANCE](visuals/xg_boost_feature_importance.png)
 
 ## 💡 Conclusion
 
