@@ -48,6 +48,9 @@ waze-churn-analysis/
 
 ![FEATURE_IMPORTANCE](visuals/output.png)
 
+### TREE_CLASSIFICATION MODEL SELECTION 60:20:20 :
+![CM](visuals/model_selection_tree.png)
+
 ### CHAMPION MODEL XG_BOOST  CONFUSION MATRIX ACHIEVED F1 SCORE 49%:
 ![CM](visuals/xg_boost_CM.png)
 
